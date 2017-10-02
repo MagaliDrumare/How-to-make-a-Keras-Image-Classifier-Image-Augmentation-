@@ -9,6 +9,8 @@ Created on Mon Oct  2 16:03:51 2017
 @author: magalidrumare
 """
 
+# Upload the Data : http://www.superdatascience.com/wp-content/uploads/2017/04/Convolutional_Neural_Networks.zip 
+
 #Part 1 _Image pre-processing 
 # 10000 images 
 # 8000 images dans training set dogs 
