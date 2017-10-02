@@ -1,5 +1,10 @@
-# Script pour la Data Augmentation qui permet d'éviter l'overfitting 
+# A voir et à savoir 
+* La Data Augmentation permet d'éviter l'overfitting.  
+* https://keras.io/preprocessing/image/
+
 ```
+# Example of using .flow(x, y):
+
 from keras.preprocessing.image import ImageDataGenerator # importer ImageDataGenerator 
 
 train_datagen = ImageDataGenerator( # augmentation of the images. 
