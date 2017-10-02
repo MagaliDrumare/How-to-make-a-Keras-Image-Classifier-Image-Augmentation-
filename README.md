@@ -1,5 +1,5 @@
-# A voir et à savoir 
-* La Data Augmentation permet d'éviter l'overfitting.  
+# A voir et à savoir: 
+* Augmenter les données permet d'éviter l'overfitting : https://fr.coursera.org/learn/deep-neural-network/lecture/Pa53F/other-regularization-methods
 * https://keras.io/preprocessing/image/
 
 ```
