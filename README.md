@@ -2,7 +2,7 @@
 * Augmenter les données permet d'éviter l'overfitting : https://fr.coursera.org/learn/deep-neural-network/lecture/Pa53F/other-regularization-methods
 * https://keras.io/preprocessing/image/
 
-```
+```python
 # Example of using .flow(x, y):
 
 from keras.preprocessing.image import ImageDataGenerator # importer ImageDataGenerator 
